@@ -1,4 +1,4 @@
-
+//simulando um banco de dados
 function mudaimagem(item) {
     var img = document.getElementById('bandeira1');
     img.innerHTML = '<img src="' + item + '"width="200px">';
